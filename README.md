@@ -6,7 +6,7 @@ Hello there !!
 
 🏦 I recently completed a SWE internship @ Shareworks by Morgan Stanley this summer
 
-💻 My main languages are C++, Java, Python, HTML/CSS/JS (and I'm also ✨ proficient ✨ in Scheme/Racket)
+💻 My main languages are C++, Java, Python, HTML/CSS/JS
 
 💡 I'm currently learning about 
   * operating systems function, design, and implementation
