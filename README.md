@@ -1,10 +1,10 @@
 Hello there !!
 
-📚 I'm a 3rd year Computer Science student at the University of Waterloo
+📚 I'm a 4th year Computer Science student at the University of Waterloo
 
-🍄  I'm currently seeking internships for Fall 2022
+🍄  I'm currently seeking internships for Summer 2023
 
-🏦 I recently completed a SWE internship @ Zynga this Winter 
+🏦 I'm currently interning at Tesla this Fall!
 
 💻 My main languages are C++, Go, Java, Python
 
